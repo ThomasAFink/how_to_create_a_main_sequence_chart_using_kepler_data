@@ -89,7 +89,7 @@ plt.xlabel('Effective Temperature (K)')
 plt.ylabel('Estimated Lifespan (Billion Years) [Log Scale]')
 plt.legend()
 plt.grid(True, which="major", ls="--", color=font_axis_color)
-plt.savefig("3_temperature_estimated_lifespan_main_seqeuence_diagram.jpg", dpi=300)
+plt.savefig("3_temperature_estimated_lifespan_main_seqeuence_diagram.jpg", dpi=1000)
 plt.show()
 
 # Plot 4: Plotting each planet with color coding based on the host star's classification
