@@ -88,7 +88,7 @@ This chart examines the orbital periods of planets in relation to the effective 
 
 **Insights:**  
 - The distribution of orbital periods across different star types offers clues into the diversity of planetary systems.  
-- Certain star classifications, particularly Main Sequence stars, host a wide variety of planetary systems with varying orbital periods.
+- Certain star classifications, particularly Main Sequence stars, host a wide variety of planetary systems with varying orbital periods. Many more planets have been detected around Main Sequence stars.
 
 ## Conclusion
 
