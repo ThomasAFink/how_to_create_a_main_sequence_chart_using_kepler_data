@@ -106,8 +106,8 @@ for category, color in zip(categories, colors):
 plt.gca().invert_xaxis()  # Hotter stars on the left
 plt.yscale('log')  # Log scale for planet orbital time to handle wide range of values
 plt.title('Planet Orbital Time vs. Host Star Effective Temperature with Stellar Classifications')
-plt.ylabel('Host Star Effective Temperature (K)')
-plt.xlabel('Orbital Period (days)')
+plt.xlabel('Host Star Effective Temperature (K)')
+plt.ylabel('Orbital Period (days)')
 plt.legend()
 plt.grid(True, which="major", ls="--", color=font_axis_color)
 plt.savefig("4_planet_host_star_classification_main_seqeuence_diagram.jpg", dpi=1000)
