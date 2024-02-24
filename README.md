@@ -1,6 +1,6 @@
 # How To Create a Main Sequence Chart Using Kepler Data
 
-This repository showcases an in-depth analysis of data from the Kepler space telescope. The visualizations focus on the relationships between stellar characteristics, their classification, and the properties of their orbiting planets. This detailed exploration includes stellar temperature, magnitude, radius, estimated lifespans based on stellar mass, and the orbital periods of planets in relation to their host stars' temperatures.
+This repository showcases an in-depth analysis of data from the Kepler space telescope. The visualizations focus on the relationships between stellar characteristics, their classification, and the properties of their orbiting planets. This detailed exploration includes stellar temperature, magnitude, radius, estimated lifespans based on stellar mass, and the orbital periods of planets in relation to their host stars' temperatures. The Kepler mission has provided an unprecedented dataset for identifying exoplanets in our galaxy downloaded from Kaggle at https://www.kaggle.com/datasets/nasa/kepler-exoplanet-search-results
 
 ## The Hertzsprung-Russell Diagram (H-R Diagram)
 
