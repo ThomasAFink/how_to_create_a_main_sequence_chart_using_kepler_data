@@ -90,6 +90,24 @@ This chart examines the orbital periods of planets in relation to the effective 
 - The distribution of orbital periods across different star types offers clues into the diversity of planetary systems.  
 - Certain star classifications, particularly Main Sequence stars, host a wide variety of planetary systems with varying orbital periods. Many more planets have been detected around Main Sequence stars.
 
+## Data Sampling Bias by Kepler
+
+The relative scarcity of white dwarfs in the Kepler dataset, and by extension in the simulated H-R diagram, could be due to several factors:
+
+Detection Bias of the Kepler Mission:
+
+The Kepler space telescope was primarily designed to find Earth-like planets orbiting within the habitable zone of Sun-like stars. White dwarfs are typically not targeted for such surveys because they are faint and their habitable zones would be very close to the star, making planets difficult to detect and less likely to be habitable.
+Intrinsic Properties of White Dwarfs:
+
+White dwarfs are small and dim, making it challenging for transit methods to detect planets around them. The transit depth is less significant due to the smaller size of the star, requiring more sensitive instruments to detect such changes in brightness.
+Additionally, white dwarfs are the remnants of stars that have undergone significant mass loss, which could disrupt planetary orbits and reduce the likelihood of finding planets around them.
+Evolutionary Timescales:
+
+White dwarfs represent a later stage of stellar evolution. The systems around them may have undergone dramatic changes, and it's possible that planets that were once present have been engulfed or ejected during the red giant phase that preceded the white dwarf stage.
+Sample Selection:
+
+The Kepler mission's sample selection favored stars that are more likely to host detectable planets. Since white dwarfs are less likely to host detectable planets due to the reasons mentioned above, they were not a primary focus of the mission.
+
 ## Conclusion
 
 The Kepler data visualizations provide a multifaceted view of the cosmos, highlighting the intricate relationships between stars and their planets. Through detailed analysis of stellar temperatures, magnitudes, radii, and estimated lifespans, we gain insights into the lifecycle of stars and the dynamic nature of their planetary systems.
